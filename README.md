@@ -11,4 +11,6 @@ Loading data from yfinance API, calculating the mean, variance, median, standard
 Lab 2 - Pandas Graph or Table
 
 Using Pandas package to create graphs and tables with stocks data or 'Titanic', 'Tip' dataset.
-#
+
+# Part 2 - Team Project
+
