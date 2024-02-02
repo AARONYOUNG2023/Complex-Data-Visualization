@@ -1,7 +1,7 @@
 # Complex-Data-Visualization
 Personal Class Project and Team Project
 
-# HomeWork Instruction
+# Part 1 - Homeworks and Labs
 Lab 1 - Warm Up
 
 Homework 1 - Making Stocks Table
