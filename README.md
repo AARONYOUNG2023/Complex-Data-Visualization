@@ -2,7 +2,6 @@
 Personal Class Project and Team Project
 
 # HomeWork Instruction
-#
 Lab 1 - Warm Up
 
 Homework 1 - Making Stocks Table
