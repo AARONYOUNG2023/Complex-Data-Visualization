@@ -1,7 +1,7 @@
 # Complex-Data-Visualization
 Personal Class Project and Team Project
 
-# HomeWork List in the DATS 6401 Complex Data for Visualization
+# HomeWork Instruction
 #
 Lab 1 - Warm Up
 
